@@ -1,19 +1,40 @@
-
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
-    color: #333;
-    background: url('../images/highland.jpg') no-repeat center center fixed;
-    background-size: cover;
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  background: url("../images/highland.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 
-.container .btn:hover{
-background-color: #ff0000;
+.container .btn:hover {
+  background-color: #ff0000;
 }
-.card img{
-    height: 400px;
-    object-fit: cover;
+.card img {
+  height: 400px;
+  object-fit: cover;
 }
+<<<<<<< HEAD
 #btn-button-dn{
     color: #f8f9fa;
+=======
+
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* dangnhap */
+.form-text {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+/* dangky */
+
+.register-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6px;
+>>>>>>> pr-feat
 }
