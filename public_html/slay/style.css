@@ -13,10 +13,10 @@ body {
   height: 400px;
   object-fit: cover;
 }
-<<<<<<< HEAD
+
 #btn-button-dn{
     color: #f8f9fa;
-=======
+}
 
 .overlay {
   background: rgba(0, 0, 0, 0.6);
@@ -36,5 +36,4 @@ body {
   display: flex;
   justify-content: space-between;
   margin-bottom: 6px;
->>>>>>> pr-feat
 }
