@@ -14,9 +14,6 @@ background-color: #ff0000;
     height: 400px;
     object-fit: cover;
 }
-
-.overlay {
-    background: rgba(0, 0, 0, 0.6);
-    padding: 20px;
-    border-radius: 10px;
+#btn-button-dn{
+    color: #f8f9fa;
 }
